@@ -1,0 +1,10 @@
+ID,Chrome,Gene,Start,End,Strand,Function
+YE17_GM001999,Scaffold1,cheB,2252582,2253661,-1,"two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase"
+YE17_GM002000,Scaffold1,cheD,2253664,2254161,-1,chemotaxis protein CheD
+YE17_GM002001,Scaffold1,cheR,2254158,2254994,-1,chemotaxis protein methyltransferase CheR
+YE17_GM002002,Scaffold1,cheW,2254991,2255527,-1,purine-binding chemotaxis protein CheW
+YE17_GM002003,Scaffold1,mcp,2255567,2257225,-1,methyl-accepting chemotaxis protein
+YE17_GM002004,Scaffold1,cheA,2257258,2259363,-1,"two-component system, chemotaxis family, sensor kinase CheA"
+YE17_GM002005,Scaffold1,hp,2259397,2259681,-1,hypothetical protein
+YE17_GM002006,Scaffold1,cheY,2259697,2260065,-1,"two-component system, chemotaxis family, chemotaxis protein CheY"
+YE17_GM002007,Scaffold1,mcp,2260077,2261294,-1,methyl-accepting chemotaxis protein

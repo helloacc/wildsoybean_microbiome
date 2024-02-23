@@ -1,0 +1,9 @@
+ID,Chrome,Gene,Start,End,Strand,Function
+10,Scaffold2,mcp,3761348,3762433,1,methyl-accepting chemotaxis protein
+11,Scaffold2,cheY,3762455,3762820,1,"two-component system, chemotaxis family, chemotaxis protein CheY"
+12,Scaffold2,hp,3762822,3763163,1,hypothetical protein
+13,Scaffold2,cheA,3763153,3765399,1,"two-component system, chemotaxis family, sensor kinase CheA"
+14,Scaffold2,mcp,3765378,3767024,1,methyl-accepting chemotaxis protein
+15,Scaffold2,cheW,3767035,3767532,1,purine-binding chemotaxis protein CheW
+16,Scaffold2,cheR,3767534,3768340,1,chemotaxis protein methyltransferase CheR
+17,Scaffold2,cheB,3768411,3769478,1,"two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase"

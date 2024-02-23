@@ -1,0 +1,9 @@
+ID,Chrome,Gene,Start,End,Strand,Function
+YE17_GM003722,Scaffold2,cheW,4209663,4210148,-1,purine-binding chemotaxis protein CheW
+YE17_GM003723,Scaffold2,cheW,4210221,4211093,-1,purine-binding chemotaxis protein CheW
+YE17_GM003724,Scaffold2,parA,4211190,4211981,-1,chromosome partitioning protein
+YE17_GM003725,Scaffold2,motB,4212031,4212915,-1,chemotaxis protein MotB
+YE17_GM003726,Scaffold2,motA,4212931,4213671,-1,chemotaxis protein MotA
+YE17_GM003727,Scaffold2,cheB,4213671,4214798,-1,"two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase"
+YE17_GM003728,Scaffold2,cheA,4214847,4217096,-1,"two-component system, chemotaxis family, sensor kinase CheA"
+YE17_GM003729,Scaffold2,cheZ,4217127,4217912,-1,chemotaxis protein CheZ

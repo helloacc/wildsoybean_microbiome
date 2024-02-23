@@ -1,0 +1,18 @@
+library(ggplot2)
+library(gggenes)
+setwd("/home/caoxuwen/other_project/gene_plot/")
+gene <-read.csv(file="XN05-1.csv",header=T,check.names=FALSE)
+ggplot(gene, aes(xmin = Start, xmax = End, y = Chrome, fill = Function, forward =Strand)) + geom_gene_arrow() + geom_gene_label(aes(label =Gene)) + theme_genes()
+ggsave(filename = "XN05.pdf", width = 16, height = 9)
+
+gene <-read.csv(file="XN05-2.csv",header=T,check.names=FALSE)
+p<- ggplot(gene, aes(xmin = Start, xmax = End, y = Chrome, fill = Function, forward =Strand)) + geom_gene_arrow() + geom_gene_label(aes(label =Gene)) + theme_genes()
+ggsave(plot = p, filename = "XN05-1.pdf", width = 16, height = 9)
+
+gene <-read.csv(file="YE17-1.csv",header=T,check.names=FALSE)
+p<- ggplot(gene, aes(xmin = Start, xmax = End, y = Chrome, fill = Function, forward =Strand)) + geom_gene_arrow() + geom_gene_label(aes(label =Gene)) + theme_genes()
+ggsave(plot = p, filename = "YE17.pdf", width = 16, height = 9)
+
+gene <-read.csv(file="YE17-2.csv",header=T,check.names=FALSE)
+p<- ggplot(gene, aes(xmin = Start, xmax = End, y = Chrome, fill = Function, forward =Strand)) + geom_gene_arrow() + geom_gene_label(aes(label =Gene)) + theme_genes()
+ggsave(plot = p, filename = "YE17-1.pdf", width = 16, height = 9)

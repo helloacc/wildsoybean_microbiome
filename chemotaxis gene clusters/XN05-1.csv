@@ -1,0 +1,10 @@
+ID,Chrome,Gene,Start,End,Strand,Function
+1,Scaffold1,cheW,2718084,2718563,-1,purine-binding chemotaxis protein CheW
+2,Scaffold1,cheW,2718645,2719466,-1,purine-binding chemotaxis protein CheW
+3,Scaffold1,parA,2719556,2720308,-1,chromosome partitioning protein
+4,Scaffold1,motB,2720429,2721271,-1,chemotaxis protein MotB
+5,Scaffold1,motA,2721277,2722017,-1,chemotaxis protein MotA
+6,Scaffold1,cheB,2722034,2723140,-1,"two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase"
+7,Scaffold1,cheA,2723194,2725425,-1,"two-component system, chemotaxis family, sensor kinase CheA"
+8,Scaffold1,cheZ,2725437,2726231,-1,chemotaxis protein CheZ
+9,Scaffold1,cheY,2726255,2726641,-1,"two-component system, chemotaxis family, chemotaxis protein CheY"
